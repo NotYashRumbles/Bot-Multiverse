@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "multiverse.mcsh.io",
+    "ip": "15.235.215.108",
     "port": 10310,
     "version": "1.20.1",
     "try-creative": false

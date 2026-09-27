@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "free-1.skynodes.in",
-    "port": 25595,
+    "ip": "asia2-mumbai.pingless.org:27610",
+    "port": 27610,
     "version": "1.20.1",
     "try-creative": false
   },

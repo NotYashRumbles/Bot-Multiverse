@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "asia2-mumbai.pingless.org:27610",
-    "port": 27610,
+    "ip": "asia2-mumbai.pingless.org",
+    "port": 27840,
     "version": "1.20.1",
     "try-creative": false
   },
